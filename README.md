@@ -20,7 +20,7 @@ Requirements:
 
 Instruction:
 
-To installed the require library and package manager you have to options. 
+To installed the require library and package manager you have two options. 
 
 *Option 1: Download the correct  setup script for Mac or Windows and run it
       
