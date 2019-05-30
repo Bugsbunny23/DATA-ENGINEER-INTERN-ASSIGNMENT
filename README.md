@@ -24,8 +24,8 @@ To installed the require library and package manager you have two options.
 
 *Option 1: Download the correct  setup script for Mac or Windows and run it
       
-      "Set Up Script for MAC OS"
-      "Set Up Script for Windows"
+      "Set Up Script for MAC OS.sh"
+      "Set Up Script for Windows.bat"
 
 *Option 2: Copy and paste the follow command in quotation and press enter after each command copied into the command prompt or terminal
 
